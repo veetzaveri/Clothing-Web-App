@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "itemName": "T-Shirt",
+      "type": "Top",
+      "notes": "Comfortable for summer",
+      "size": {
+        "width": 42,
+        "length": 28
+      },
+      "color": {
+      "color1": "Blue",
+      "color2": "Red",
+      "color3": "White",
+      "color4": "Yellow"
+      },
+      "imageUrl": "/assets/t-shirt.webp",
+      "id": 12345678
+    },
+    {
+      "itemName": "Jeans",
+      "type": "Bottom",
+
+      "notes": "Classic blue denim",
+      "size": {
+        "width": 32,
+        "length": 34
+      },
+      "color": {
+        "color1": "Blue",
+      "color2": "Red",
+      "color3": "White",
+      "color4": "Yellow"
+        },
+      "imageUrl": "/assets/jeans.webp",
+      "id": 23456789
+    },
+    {
+      "itemName": "Jacket",
+      "type": "Outerwear",
+      "notes": "Perfect for winter",
+      "size": {
+        "width": 44,
+        "length": 30
+      },
+      "color": {
+        "color1": "Blue",
+      "color2": "Red",
+      "color3": "White",
+      "color4": "Yellow"
+        },
+      "imageUrl": "/assets/jacket.webp",
+      "id": 34567890
+    },
+    {
+      "itemName": "Sneakers",
+      "type": "Footwear",
+      "notes": "White and clean",
+      "size": {
+        "width": 10,
+        "length": 11
+      },
+      "color": {
+        "color1": "Blue",
+      "color2": "Red",
+      "color3": "White",
+      "color4": "Yellow"
+        },
+      "imageUrl": "/assets/sneakers.webp",
+      "id": 45678901
+    },
+    {
+      "itemName": "Blouse",
+      "type": "Top",
+      "notes": "Elegant and stylish",
+      "size": {
+        "width": 40,
+        "length": 25
+      },
+      "color": {
+        "color1": "Blue",
+      "color2": "Red",
+      "color3": "White",
+      "color4": "Yellow"
+        },
+      "imageUrl": "/assets/blouse.webp",
+      "id": 56789012
+    },
+    {
+      "itemName": "Gown",
+      "type": "Dress",
+      "notes": "Perfect for formal events",
+      "size": {
+        "width": 38,
+        "length": 50
+      },
+      "color": {
+        "color1": "Blue",
+      "color2": "Red",
+      "color3": "White",
+      "color4": "Yellow"
+        },
+      "imageUrl": "/assets/gown.webp",
+      "id": 67890123
+    }
+  ]
+}
